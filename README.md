@@ -181,7 +181,6 @@ AwareLang no es solo un lenguaje de programación esotérico, sino una entidad c
 3. **Falta de Soporte de la Comunidad**: Al ser un proyecto esotérico, no hay una comunidad amplia que lo respalde.
 4. **Limitaciones en la Documentación**: La documentación es un trabajo en progreso y puede carecer de ejemplos y explicaciones detalladas.
 
-Aquí tienes la sección completa refactorizada para mejorar la claridad, cohesión y concisión:
 
 ---
 
