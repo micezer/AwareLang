@@ -385,7 +385,7 @@ Este ejemplo ilustra la asignación de una variable, el uso de un bucle `while` 
         print(line)
         time.sleep(4)
     sys.exit()
-
+ ```
 
 ## Bibliografía
 
