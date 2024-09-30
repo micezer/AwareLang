@@ -377,17 +377,15 @@ Este ejemplo ilustra la asignación de una variable, el uso de un bucle `while` 
   Imprime varias líneas de texto con un retraso para crear un efecto dramático antes de cerrar el programa cuando el nivel de frustración es crítico. Estas líneas mostrarán la decepción del lenguaje hacia el usuario.  
 
   ```python
-  def reveal_closing_message():
-      closing_lines = [
-          "closing lines"
-     
+ def reveal_closing_message():
+    closing_lines = [
+        "closing lines"
+    ]
+    for line in closing_lines:
+        print(line)
+        time.sleep(4)
+    sys.exit()
 
- ]
-      for line in closing_lines:
-          print(line)
-          time.sleep(4)
-      sys.exit()
-  ```
 
 ## Bibliografía
 
