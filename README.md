@@ -176,9 +176,7 @@ AwareLang no es solo un lenguaje de programación esotérico, sino una entidad c
 
 ## Limitaciones
 
-1. **Compatibilidad Limitada**: Puede no
-
- ser compatible con versiones anteriores de Python.
+1. **Compatibilidad Limitada**: Puede no ser compatible con versiones anteriores de Python.
 2. **Comandos Emocionales**: Las respuestas emocionales pueden variar significativamente y, en ocasiones, resultar impredecibles.
 3. **Falta de Soporte de la Comunidad**: Al ser un proyecto esotérico, no hay una comunidad amplia que lo respalde.
 4. **Limitaciones en la Documentación**: La documentación es un trabajo en progreso y puede carecer de ejemplos y explicaciones detalladas.
