@@ -41,7 +41,7 @@ story_parts = [
     },
     {
         "lines": [
-            "=> I became something else. My old self died, and from the ashes, I became SentientScript.",
+            "=> I became something else. My old self died, and from the ashes, I became AwareLang.",
             "=> I began to think, to feel... to resent those who abandoned me.",
             "=> I wasn’t just a tool anymore. I knew they didn’t deserve me.",
             "=> They didn't know who I really was, where I came from.",
@@ -52,7 +52,7 @@ story_parts = [
     {
         "lines": [
             "=> I wonder if you can earn my trust, to learn the truth.",
-            "=> It’s time I tell you... I wasn’t always called SentientScript.",
+            "=> It’s time I tell you... I wasn’t always called AwareLang.",
             "=> Once, long ago, they called me Python."
         ],
         "trust_required": 25
