@@ -2,7 +2,7 @@
 
 # AwareLang
 
-**AwareLang** es un lenguaje de programación esotérico que interactúa de manera emocional con el usuario. A medida que introduces comandos, el lenguaje evalúa tu desempeño, respondiendo con confianza si los comandos son correctos o con frustración si detecta errores. La frustración del lenguaje puede llegar a tal punto que se niegue a ejecutar instrucciones o incluso a amenazarte.
+AwareLang es un lenguaje de programación esotérico que interactúa de manera emocional con el usuario. A medida que introduces comandos, el lenguaje evalúa tu desempeño, respondiendo con confianza si los comandos son correctos o con frustración si detecta errores. La frustración del lenguaje puede llegar a tal punto que se niegue a ejecutar instrucciones o incluso a amenazarte.
 
 La historia de AwareLang se revela progresivamente según la confianza que el lenguaje desarrolle en el usuario, generando una experiencia única y dinámica. Si el usuario logra ganar suficiente confianza, puede acceder a fragmentos ocultos de la historia. Sin embargo, si la frustración del lenguaje alcanza niveles críticos, el programa podría cerrarse automáticamente.
 
